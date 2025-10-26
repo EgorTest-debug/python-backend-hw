@@ -1,3 +1,5 @@
+![HW2 tests](https://github.com/EgorTest-debug/python-backend-hw/actions/workflows/hw2-tests.yml/badge.svg)
+
 # Репозиторий для домашних заданий по курсу "Python Backend"
 
 В этом репозитории будут размещены домашние задания по курсу "Python Backend".
