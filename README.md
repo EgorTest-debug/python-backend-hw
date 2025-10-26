@@ -1,4 +1,4 @@
-![HW2 tests](https://github.com/EgorTest-debug/python-backend-hw/actions/workflows/hw2-tests.yml/badge.svg)
+![HW2 tests](https://github.com/EgorTest-debug/python-backend-hw/actions/workflows/mytests.yml/badge.svg)
 
 # Репозиторий для домашних заданий по курсу "Python Backend"
 
